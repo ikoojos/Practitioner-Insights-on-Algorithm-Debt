@@ -21,9 +21,8 @@ Sample python scripts are provided which highlights the various notebooks create
 ├── Questionniare Questuions.pdf  # Questionniare sample
 ├── Interview Questions.pdf       # Interview Questions
 ├── Pis.pdf                       # Participant information sheet
-├── Email invitaion.pdf           # Email invitation ti participants
-
-
+├── Email invitaion.pdf           # Email invitation to participants
+```
 
 
 ## **Citation**
@@ -31,9 +30,8 @@ Sample python scripts are provided which highlights the various notebooks create
 If you use this repository or its results, please cite the research as follows:
 
 ```plaintext
-Simon, E.I.O., Hettiarachchi, C., Fard, F., Potanin, A., and Suominen, H., "Algorithm Debt in Machine and Deep Learning: Insights from a Mixed-Methods Study of Practitioners" 2024. [Online]. Available: https://arxiv.org/pdf/2408.10529
+Simon, E.I.O., Hettiarachchi, C., Fard, F., Potanin, A., and Suominen, H., "Algorithm Debt in Machine and Deep Learning: Insights from a Mixed-Methods Study of Practitioners" 2024. [Online]. Available: https://arxiv.org/pdf/XXX```
 ```
-
 ---
 
 ## **Contact**
