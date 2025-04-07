@@ -18,17 +18,11 @@ Sample python scripts are provided which highlights the various notebooks create
 ```
 ├── dataset/                      # Folder containing the dataset
    └── liu_datset_processed.csv   # Dataset filenotebooks/                       
-├── RoBERTa.ipynb                 # Notebook for RoBERTa embeddings
-├── ALBERT.ipynb                  # Notebook for ALBERT embeddings
-├── Instructor.ipynb              # Notebook for Instructor embeddings
-├── LR.ipynb                      # Logistic Regression notebook
-├── RF.ipynb                      # Random Forest notebook
-├── SVM.ipynb                     # Support Vector Machine notebook                         
-├── utils.py                      # Helper functions
-├── splitting.py                  # Dataset splitting
-├── preprocessing.py              # Text preprocessing
-├── requirements.txt              # List of required dependencies
-├── README.md                     # Documentation file
+├── Questionniare Questuions.pdf  # Questionniare sample
+├── Interview Questions.pdf       # Interview Questions
+├── Pis.pdf                       # Participant information sheet
+├── Email invitaion.pdf           # Email invitation ti participants
+
 
 
 
