@@ -11,3 +11,45 @@
 **Results** We found a limited awareness of AD among practitioners with causes varying by roles. We identified the complexity of ML/DL algorithms (78\%) as the major cause. Poor model scalability was the dominant effect, with systemic testing (71\%) as key mitigation strategy.
 
 **Conclusion** This study confirmed AD as a distinct TD type, and offered practical guide to practitioners on how to (e.g., training of practitioners, implementing scalable algorithmic designs) mitigate AD in practice. Future research should focus on developing automated automated tools for AD detection to enhance the long term reliability of ML/DL systems.
+
+
+## **Repository Structure**
+Sample python scripts are provided which highlights the various notebooks created in Python.
+```
+├── dataset/                      # Folder containing the dataset
+   └── liu_datset_processed.csv   # Dataset filenotebooks/                       
+├── RoBERTa.ipynb                 # Notebook for RoBERTa embeddings
+├── ALBERT.ipynb                  # Notebook for ALBERT embeddings
+├── Instructor.ipynb              # Notebook for Instructor embeddings
+├── LR.ipynb                      # Logistic Regression notebook
+├── RF.ipynb                      # Random Forest notebook
+├── SVM.ipynb                     # Support Vector Machine notebook                         
+├── utils.py                      # Helper functions
+├── splitting.py                  # Dataset splitting
+├── preprocessing.py              # Text preprocessing
+├── requirements.txt              # List of required dependencies
+├── README.md                     # Documentation file
+
+
+
+## **Citation**
+
+If you use this repository or its results, please cite the research as follows:
+
+```plaintext
+Simon, E.I.O., Hettiarachchi, C., Fard, F., Potanin, A., and Suominen, H., "Algorithm Debt in Machine and Deep Learning: Insights from a Mixed-Methods Study of Practitioners" 2024. [Online]. Available: https://arxiv.org/pdf/2408.10529
+```
+
+---
+
+## **Contact**
+
+For questions, feedback, or support, please contact:
+
+- Iko-Ojo on emmanuel.simon@anu.edu.au
+
+---
+
+## **Acknowledgments**
+
+This repository was developed as part of the research on Algorithm Debt in Machine and Deep Learning: Insights from a Mixed-Methods Study of Practitioners. Special thanks to the paarticipants who volunteered to be be interviewed and those who also completed the the questionniare for their insigths.
