@@ -21,7 +21,7 @@ Sample python scripts are provided which highlights the various notebooks create
 ├── Questionniare Questuions.pdf  # Questionniare sample
 ├── Interview Questions.pdf       # Interview Questions
 ├── Pis.pdf                       # Participant information sheet
-├── Email invitaion.pdf           # Email invitation to participants
+├── Email Invitaion.pdf           # Email invitation to participants
 ```
 
 
