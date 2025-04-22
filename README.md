@@ -22,6 +22,7 @@ Sample python scripts are provided which highlights the various notebooks create
 ├── Interview Questions.pdf       # Interview Questions
 ├── Pis.pdf                       # Participant information sheet
 ├── Email Invitaion.pdf           # Email invitation to participants
+├── Ishikawa.pdf                  # Ishikawa diagram
 ```
 
 
