@@ -96,6 +96,7 @@ void PoolingLayer<Dtype>::Forward_cpu(const vector<Blob<Dtype>*>& bottom,
     const int top_count = top[0]->count();
     // TODO: improve pooling for "channel-first" cases
 }
+```
 ---
 
 ### Q5 — Familiarity with Algorithm Debt
