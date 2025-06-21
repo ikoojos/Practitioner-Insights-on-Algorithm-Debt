@@ -80,6 +80,22 @@ By continuing, I confirm that:
 
 *Algorithm Debt* is a newly uncovered type of Technical Debt that results from algorithm implementations that may require rework as systems evolve — degrading performance, scalability, and quality.
 
+
+### Algorithm Debt
+
+*Algorithm Debt* is a newly uncovered type of Technical Debt that results from algorithm implementations that may require rework as systems evolve — degrading performance, scalability, and quality.
+
+**Example of Algorithm Debt:**
+
+```cpp
+template <typename Dtype>
+void PoolingLayer<Dtype>::Forward_cpu(const vector<Blob<Dtype>*>& bottom,
+                                      const vector<Blob<Dtype>*>& top) {
+    const Dtype* bottom_data = bottom[0]->cpu_data();
+    Dtype* top_data = top[0]->mutable_cpu_data();
+    const int top_count = top[0]->count();
+    // TODO: improve pooling for "channel-first" cases
+}
 ---
 
 ### Q5 — Familiarity with Algorithm Debt
