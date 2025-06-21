@@ -15,10 +15,8 @@
 
 ## **Repository Structure**
 Sample python scripts are provided which highlights the various notebooks created in Python.
-```
-├── dataset/                      # Folder containing the dataset
-   └── liu_datset_processed.csv   # Dataset filenotebooks/                       
-├── Questionniare Questuions.pdf  # Questionniare sample
+```                   
+├── Questionniare Questions.md  # Questionniare 
 ├── Interview Questions.pdf       # Interview Questions
 ├── Pis.pdf                       # Participant information sheet
 ├── Email Invitaion.pdf           # Email invitation to participants
