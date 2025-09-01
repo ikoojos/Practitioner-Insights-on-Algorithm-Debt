@@ -49,11 +49,11 @@ By continuing, I confirm that:
 
 ### Q2 — Rate your experience in ML/DL systems development:
 
-- [ ] Novice
-- [ ] Beginner
-- [ ] Competent
-- [ ] Proficient
-- [ ] Expert
+- [ ] Novice ovice (Minimal or “textbook” knowledge without connecting it to practice)
+- [ ] Beginner (Working knowledge of key aspects of practice)
+- [ ] Competent (Good working and background knowledge of area of practice)
+- [ ] Proficient (Depth of understanding of discipline and area of practice)
+- [ ] Expert (Authoritative knowledge of domain and deep tacit understanding across area of practice)
 
 ### Q3 — Are you answering based on your:
 
