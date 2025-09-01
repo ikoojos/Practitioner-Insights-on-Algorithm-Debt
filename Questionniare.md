@@ -22,7 +22,8 @@ This survey consists of both open and closed-ended questions about Algorithm Deb
 
 By continuing, I confirm that:  
 
-- I have read and understood the Participant Information Sheet.  
+- I have read and understood the Participant Information Sheet.
+- I have at least one year of hands-on experience with frameworks such as TensorFlow, Keras, DL4J, PyTorch, MXNet, or Microsoft Cognitive Toolkit e.t.c.
 - Any questions or concerns I had about the project have been addressed.  
 - I agree to participate in the study and understand that I may withdraw at any time before submitting my data.  
 - I consent to the information I provide being included in a thesis, presentations, publications, and stored in an open repository, with anonymity preserved.
