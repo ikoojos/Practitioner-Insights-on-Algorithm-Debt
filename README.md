@@ -14,7 +14,7 @@
 
 
 ## **Repository Structure**
-[To access these files you can alternatively view them on Google Drive](https://drive.google.com/drive/folders/12_0tvZQlBsIFxpq42tjZQ_Gev7XeBq-S?usp=drive_link)
+[To access these files you can view them on Google Drive](https://drive.google.com/drive/folders/12_0tvZQlBsIFxpq42tjZQ_Gev7XeBq-S?usp=drive_link)
 
 ```                   
 ├── Questionniare Questions.md  # Questionniare 
