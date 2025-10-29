@@ -6,7 +6,7 @@
 **Objective** To bridge this gap, in this study we investigated the causes, effects, and mitigation strategies of AD in ML/DL systems. 
 
 
-**Methods** Using concurrent mixed-methods, we analysed 65 questionnaires and conducted 21 semi-structured interviews with ML/DL practitioners.
+**Methods** Using mixed-methods, we analysed 65 questionnaires and conducted 21 semi-structured interviews with ML/DL practitioners.
 
 **Results** We found a limited awareness of AD among practitioners with causes varying by roles. We identified the complexity of ML/DL algorithms (78\%) as the major cause. Poor model scalability was the dominant effect, with systemic testing (71\%) as key mitigation strategy.
 
