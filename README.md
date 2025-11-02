@@ -8,9 +8,9 @@
 
 **Methods** Using mixed-methods, we analysed 65 questionnaires and conducted 21 semi-structured interviews with ML/DL practitioners.
 
-**Results** We found a limited awareness of AD among practitioners with causes varying by roles. We identified the complexity of ML/DL algorithms (78\%) as the major cause. Poor model scalability was the dominant effect, with systemic testing (71\%) as key mitigation strategy.
+**Results** We found a limited awareness of AD among practitioners with causes varying by roles and identified a lack of knowledge and the complexity of ML/DL algorithms as the major causes. Poor model scalability was the dominant effect, with continous education and training as key mitigation strategy.
 
-**Conclusion** This study confirmed AD as a distinct TD type, and offered practical guide to practitioners on how to (e.g., training of practitioners, implementing scalable algorithmic designs) mitigate AD in practice. Future research should focus on developing automated automated tools for AD detection to enhance the long term reliability of ML/DL systems.
+**Conclusion** This study confirmed AD as a distinct TD type, and offered practical guide to practitioners on how to (e.g., training of practitioners, implementing scalable algorithmic designs) mitigate AD in practice.
 
 
 ## **Repository Structure**
