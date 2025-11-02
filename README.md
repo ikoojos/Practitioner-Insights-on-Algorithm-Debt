@@ -23,6 +23,21 @@
 ├── Email Invitaion.pdf           # Email invitation to participants
 ├── Ishikawa.pdf                  # Ishikawa diagram
 ```
+## Repository Contents
+
+This repository contains data collection instruments, ethics documentation, and analysis materials associated with the research study.
+
+| File | Description |
+|------|--------------|
+| **Analysis Interview.xlsx** | Contains coded data and analysis results derived from interview responses. |
+| **H_2024_0982 Human Research Ethics Application_.pdf** | Submitted human research ethics application outlining study objectives, methodology, and participant procedures. |
+| **Human Research Ethics Application_ApprovalLetter_7403_10_Jun_2025.pdf** | Official ethics approval letter confirming authorization to conduct the study. |
+| **See Approval Certificate- UBC.pdf** | Certificate of ethics approval issued by the University of British Columbia (UBC). |
+| **Interview Questions.pdf** | Full set of interview questions used for qualitative data collection. |
+| **Qualtrics Survey Software Questions.pdf** | Survey instrument exported from Qualtrics, showing the exact questions presented to participants. |
+| **Quest_data_responses.xlsx** | Anonymized survey response dataset collected through Qualtrics. |
+| **Questionnaire.md** | Markdown version of the questionnaire for reference and reproducibility. |
+| **SurveyQuestions.pdf** | Final version of the survey questions used for data collection. |
 
 
 ## **Citation**
