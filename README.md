@@ -68,4 +68,4 @@ For questions, feedback, or support, please contact:
 
 ## **Acknowledgments**
 
-This repository was developed as part of the research on Algorithm Debt in Machine and Deep Learning: Insights from a Mixed-Methods Study of Practitioners. Special thanks to the paarticipants who volunteered to be be interviewed and those who also completed the the questionniare for their insigths.
+This repository was developed as part of the research on Algorithm Debt in Machine and Deep Learning: Insights from a Mixed-Methods Study of Practitioners. Special thanks to the participants who volunteered to be be interviewed and those who also completed the the questionniare for their insigths.
